@@ -6,3 +6,6 @@ region = "ap-south-1"
 [shape]
 vcpu = 1
 memory = 512
+
+[storage]
+size = 8
