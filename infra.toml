@@ -8,4 +8,6 @@ vcpu = 1
 memory = 512
 
 [storage]
+type = "ssd"
 size = 8
+unit = "GB"
