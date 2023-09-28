@@ -5,7 +5,7 @@ region = "ap-south-1"
  
 [shape]
 vcpu = 1
-memory = 512
+memory = 0.5
 
 [storage]
 type = "SSD"
