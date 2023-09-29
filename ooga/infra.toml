@@ -2,3 +2,12 @@
 name = "pricing"
 cloud_provider = "aws"
 region = "us-east-1"
+ 
+[shape]
+vcpu = 1
+memory = 0.5
+
+[storage]
+type = "SSD"
+size = 8
+unit = "GB"
