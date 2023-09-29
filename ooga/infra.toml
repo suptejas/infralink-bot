@@ -1,4 +1,4 @@
-[app]
+[app] 
 name = "pricing"
 cloud_provider = "aws"
 region = "us-east-1"
