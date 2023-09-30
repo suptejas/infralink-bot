@@ -1,7 +1,7 @@
 [app]
 name = "main-api"
 cloud_provider = "aws"
-region = "me-central-1"
+region = "us-central-1"
  
 [shape]
 vcpu = 1
