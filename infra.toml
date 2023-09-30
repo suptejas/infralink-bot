@@ -1,5 +1,5 @@
 [app]
-name = "main-api"
+name = "api"
 cloud_provider = "aws"
 region = "af-south-1"
  
