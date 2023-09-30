@@ -1,5 +1,5 @@
 [app] 
-name = "pricing"
+name = "ooga"
 cloud_provider = "aws"
 region = "us-east-1"
  
@@ -11,5 +11,4 @@ memory = 0.5
 type = "SSD"
 size = 8
 unit = "GB"
-
 
