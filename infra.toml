@@ -4,10 +4,10 @@ cloud_provider = "aws"
 region = "me-central-1"
  
 [shape]
-vcpu = 1
-memory = 1
+vcpu = 2
+memory = 4
 
 [storage]
-type = "SSD"
+type = "HDD"
 size = 8
 unit = "GB"
