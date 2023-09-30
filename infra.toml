@@ -1,13 +1,13 @@
 [app]
 name = "main-api"
 cloud_provider = "aws"
-region = "me-central-1"
+region = "af-south-1"
  
 [shape]
-vcpu = 2
-memory = 4
+vcpu = 1
+memory = 1
 
 [storage]
-type = "HDD"
+type = "SSD"
 size = 8
 unit = "GB"
