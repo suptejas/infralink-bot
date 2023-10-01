@@ -4,8 +4,8 @@ cloud_provider = "aws"
 region = "af-south-1"
  
 [shape]
-vcpu = 2
-memory = 4
+vcpu = 1
+memory = 2
 
 [storage]
 type = "SSD"
